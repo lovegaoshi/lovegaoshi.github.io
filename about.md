@@ -3,13 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+practiced quarter squat for 1.5 years.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lovegaoshi@github](https://github.com/lovegaoshi/)
